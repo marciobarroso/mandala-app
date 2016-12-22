@@ -1,0 +1,31 @@
+	<div id="{{ modal_id }}" class="modal fade" tabindex="-1" role="dialog">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					{{ "label_report_compilation_detail" | trans }}
+				</div>
+				<div class="modal-body">
+					<div class="row">
+						<div class="moda-report-detail-system col-md-3"><label class="control-label">System:  </label><span class="value"></span></div>
+						<div class="moda-report-detail-program col-md-3"><label class="control-label">Program:  </label><span class="value"></span></div>
+						<div class="moda-report-detail-status col-md-2"><label class="control-label">Status:  </label><span class="value"></span></div>
+						<div class="moda-report-detail-line col-md-2"><label class="control-label">Line:  </label><span class="value"></span></div>
+						<div class="moda-report-detail-column col-md-2"><label class="control-label">Column:  </label><span class="value"></span></div>
+					</div>
+					<div class="row">
+						<div class="moda-report-detail-detail col-md-12">
+							<label class="control-label">Detail:</label>
+							<p class="value"></p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="moda-report-detail-snippet col-md-12">
+							<label class="control-label">Snippet:</label>
+							<p class="value"></p>
+						</div>
+					</div>
+				</div>				
+			</div>
+		</div>
+	</div>

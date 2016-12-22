@@ -1,0 +1,20 @@
+{
+    "name": "mandala-app",
+    "autoload": {
+        "psr-4": {
+            "App\\Action\\": "app/action",
+            "App\\Handler\\": "app/handler",
+            "App\\Middleware\\": "app/middleware",
+            "App\\Common\\": "app/common",
+            "App\\Model\\": "app/model",
+            "App\\Service\\": "app/service"
+        }
+    },
+    "require": {
+        "quickshot/common": "dev-master",
+        "symfony/translation": "2.7.3",
+        "symfony/twig-bridge": "2.7.3",
+        "phpmailer/phpmailer": "~5.2",
+        "facebook/graph-sdk" : "~5.0"
+    }
+}

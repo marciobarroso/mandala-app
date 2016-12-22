@@ -1,0 +1,61 @@
+{% block messages %}
+	{% if flash.messages|length > 0 %}
+	<div class="row" style="margin-left: 0px; margin-right: 0px;">
+		<div class="col-xs-1 col-sm-1 col-md-4 col-lg-4"></div>	
+		<div class="col-xs-10 col-sm-10 col-md-4 col-lg-4">
+			
+			<div class="modal fade" id="modal-messages" tabindex="-1" role="dialog">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+							{% if flash.messages.error|length > 0 %}
+							<span class="messages-title error">	
+								<i class="fa fa-exclamation-circle fa-lg"></i>
+								&nbsp;&nbsp;{{ "messages_error" | trans }}
+							</span>
+							{% endif %}
+							{% if flash.messages.success|length > 0 %}
+							<span class="messages-title success">	
+								<i class="fa fa-exclamation-circle fa-lg"></i>
+								&nbsp;&nbsp;{{ "messages_success" | trans }}
+							</span>
+							{% endif %}
+							{% if flash.messages.info|length > 0 %}
+							<span class="messages-title info">	
+								<i class="fa fa-exclamation-circle fa-lg"></i>
+								&nbsp;&nbsp;{{ "messages_info" | trans }}
+							</span>
+							{% endif %}
+							{% if flash.messages.warning|length > 0 %}
+							<span class="messages-title warning">
+								<i class="fa fa-exclamation-circle fa-lg"></i>
+								&nbsp;&nbsp;{{ "messages_warning" | trans }}
+							</span>
+							{% endif %}
+						</div>
+						<div class="modal-body">
+							<ul class="messages">
+							{% for message in flash.messages.error %}
+								<li>{{ message | trans }}</li>
+							{% endfor %}
+							{% for message in flash.messages.success %}
+								<li>{{ message | trans }}</li>
+							{% endfor %}
+							{% for message in flash.messages.info %}
+								<li>{{ message | trans }}</li>
+							{% endfor %}
+							{% for message in flash.messages.warning %}
+								<li>{{ message | trans }}</li>
+							{% endfor %}
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+		<div class="col-xs-1 col-sm-1 col-md-4 col-lg-4"></div>
+	</div><!-- /row-->
+	{% endif %}
+{% endblock messages %}

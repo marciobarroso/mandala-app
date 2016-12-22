@@ -1,0 +1,115 @@
+{% block messages %}
+	{% if flash.messages|length > 0 %}
+	<div class="row" style="margin-left: 0px; margin-right: 0px;">
+			<div class="col-md-4"></div>	
+			<div class="col-md-4">
+				
+			{% if flash.messages.error|length > 0 %}
+
+				<div id="modal-messages" class="modal fade" tabindex="-1" role="dialog">
+					<div class="modal-dialog">
+				    	<div class="modal-content">
+				    		<div class="row modal-body bg-danger">
+								<div class="col-md-1 text-danger">
+									<i class="fa fa-exclamation-circle fa-2x"></i>
+								</div>
+								<div class="col-md-10 text-danger">
+									<ul class="messages">
+									{% for message in flash.messages.error %}
+										<li>{{ message | trans }}</li>
+									{% endfor %}
+									</ul>
+								</div>
+								<div class="col-md-1">
+									<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+								</div>
+							</div>
+				    	</div><!-- /.modal-content -->
+				  	</div><!-- /.modal-dialog -->
+				</div><!-- /.modal -->
+
+			{% endif %}
+
+			{% if flash.messages.success|length > 0 %}
+
+				<div id="modal-messages" class="modal fade" tabindex="-1" role="dialog">
+					<div class="modal-dialog">
+				    	<div class="modal-content">
+				    		<div class="row modal-body bg-success">
+								<div class="col-md-1 text-success">
+									<i class="fa fa-exclamation-circle fa-2x"></i>
+								</div>
+								<div class="col-md-10 text-success">
+									<ul class="messages">
+									{% for message in flash.messages.success %}
+										<li>{{ message | trans }}</li>
+									{% endfor %}
+									</ul>
+								</div>
+								<div class="col-md-1">
+									<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+								</div>
+							</div>
+				    	</div><!-- /.modal-content -->
+				  	</div><!-- /.modal-dialog -->
+				</div><!-- /.modal -->
+
+			{% endif %}
+
+			{% if flash.messages.info|length > 0 %}
+
+				<div id="modal-messages" class="modal fade" tabindex="-1" role="dialog">
+					<div class="modal-dialog">
+				    	<div class="modal-content">
+				    		<div class="row modal-body bg-info">
+								<div class="col-md-1 text-info">
+									<i class="fa fa-exclamation-circle fa-2x"></i>
+								</div>
+								<div class="col-md-10 text-info">
+									<ul class="messages">
+									{% for message in flash.messages.info %}
+										<li>{{ message | trans }}</li>
+									{% endfor %}
+									</ul>
+								</div>
+								<div class="col-md-1">
+									<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+								</div>
+							</div>
+				    	</div><!-- /.modal-content -->
+				  	</div><!-- /.modal-dialog -->
+				</div><!-- /.modal -->
+
+			{% endif %}
+
+			{% if flash.messages.warning|length > 0 %}
+
+				<div id="modal-messages" class="modal fade" tabindex="-1" role="dialog">
+					<div class="modal-dialog">
+				    	<div class="modal-content">
+				    		<div class="row modal-body bg-warning">
+								<div class="col-md-1 text-warning">
+									<i class="fa fa-exclamation-circle fa-2x"></i>
+								</div>
+								<div class="col-md-10 text-warning">
+									<ul class="messages">
+									{% for message in flash.messages.warning %}
+										<li>{{ message | trans }}</li>
+									{% endfor %}
+									</ul>
+								</div>
+								<div class="col-md-1">
+									<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+								</div>
+							</div>
+				    	</div><!-- /.modal-content -->
+				  	</div><!-- /.modal-dialog -->
+				</div><!-- /.modal -->
+
+			{% endif %}
+
+			</div>
+			<div class="col-md-4"></div>
+		</div><!-- /row-->
+	{% endif %}
+{% endblock messages %}

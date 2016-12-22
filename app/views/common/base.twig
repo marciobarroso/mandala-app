@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="">
+		<meta name="author" content="">
+		<title>{{ "app_name" | trans }}</title>
+
+{% use "common/stylesheets.twig" %} {% block stylesheets %} {{ parent() }} {% endblock stylesheets %}
+	</head>
+	<body>
+{% use "common/messages.twig" %} {% block messages %} {{ parent() }} {% endblock messages %}
+{% use "common/navbar.twig" %} {% block navbar %} {{ parent() }} {% endblock navbar %}
+{% use "common/container.twig" %} {% block container %} {{ parent() }} {% endblock container %}
+{% use "common/javascriptsfooter.twig" %} {% block javascriptsfooter %} {{ parent() }} {% endblock javascriptsfooter %}
+{% use "common/javascripts.twig" %} {% block javascripts %} {{ parent() }} {% endblock javascripts %}
+	</body>
+ </html>

@@ -1,0 +1,17 @@
+{% extends "common/base.twig" %}
+
+{% block content %}
+<div class="row text-center" style="padding-left: 0px; padding-right: 0px; margin-top: 10%;">
+				<img class="error" src="{{ ROOT }}/static/images/404.png" border="0" />
+			</div><!--/row-->
+			<div class="row text-center" style="padding-left: 0px; padding-right: 0px;">
+				<div class="col-md-4"></div><!-- /col-md-4 -->
+				<div class="col-md-4 text-center">
+					<h3>{{ "messages_page_not_found" | trans }}</h3>
+				</div><!-- /col-md-4 -->
+				<div class="col-md-4"></div><!-- /col-md-4 -->
+			</div><!-- /row -->
+{% endblock content %}
+{% block footer %}
+{# empty the footer #}
+{% endblock footer %}

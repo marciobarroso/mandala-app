@@ -1,0 +1,1254 @@
+[2016-12-22 14:38:46] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/login [] {"uid":"46b71c6"}
+[2016-12-22 14:38:46] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"46b71c6"}
+[2016-12-22 14:38:46] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"46b71c6"}
+[2016-12-22 14:38:46] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"46b71c6"}
+[2016-12-22 14:38:46] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"46b71c6"}
+[2016-12-22 14:38:46] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"46b71c6"}
+[2016-12-22 14:38:46] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"46b71c6"}
+[2016-12-22 14:38:46] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"46b71c6"}
+[2016-12-22 14:38:46] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"46b71c6"}
+[2016-12-22 14:38:46] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"46b71c6"}
+[2016-12-22 14:38:46] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"46b71c6"}
+[2016-12-22 14:38:46] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"46b71c6"}
+[2016-12-22 14:38:46] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"46b71c6"}
+[2016-12-22 14:38:46] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"46b71c6"}
+[2016-12-22 14:38:46] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"46b71c6"}
+[2016-12-22 14:38:46] APP.INFO: App\Action\LoginAction - Running get method ... [] {"uid":"46b71c6"}
+[2016-12-22 14:38:46] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/login in 0.24427103996277 [] {"uid":"46b71c6"}
+[2016-12-22 15:00:42] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/favicon.ico [] {"uid":"3d299f3"}
+[2016-12-22 15:00:42] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"3d299f3"}
+[2016-12-22 15:00:42] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"3d299f3"}
+[2016-12-22 15:00:42] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"3d299f3"}
+[2016-12-22 15:00:42] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"3d299f3"}
+[2016-12-22 15:00:42] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"3d299f3"}
+[2016-12-22 15:00:42] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"3d299f3"}
+[2016-12-22 15:00:42] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"3d299f3"}
+[2016-12-22 15:00:42] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"3d299f3"}
+[2016-12-22 15:00:42] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"3d299f3"}
+[2016-12-22 15:00:42] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"3d299f3"}
+[2016-12-22 15:00:42] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"3d299f3"}
+[2016-12-22 15:00:42] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"3d299f3"}
+[2016-12-22 15:00:42] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"3d299f3"}
+[2016-12-22 15:00:42] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"3d299f3"}
+[2016-12-22 15:01:10] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/favicon.ico [] {"uid":"3a7463a"}
+[2016-12-22 15:01:10] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"3a7463a"}
+[2016-12-22 15:01:10] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"3a7463a"}
+[2016-12-22 15:01:10] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"3a7463a"}
+[2016-12-22 15:01:10] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"3a7463a"}
+[2016-12-22 15:01:10] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"3a7463a"}
+[2016-12-22 15:01:10] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"3a7463a"}
+[2016-12-22 15:01:10] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"3a7463a"}
+[2016-12-22 15:01:10] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"3a7463a"}
+[2016-12-22 15:01:10] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"3a7463a"}
+[2016-12-22 15:01:10] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"3a7463a"}
+[2016-12-22 15:01:10] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"3a7463a"}
+[2016-12-22 15:01:10] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"3a7463a"}
+[2016-12-22 15:01:10] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"3a7463a"}
+[2016-12-22 15:01:10] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"3a7463a"}
+[2016-12-22 15:01:36] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/favicon.ico [] {"uid":"190b921"}
+[2016-12-22 15:01:36] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"190b921"}
+[2016-12-22 15:01:36] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"190b921"}
+[2016-12-22 15:01:36] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"190b921"}
+[2016-12-22 15:01:36] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"190b921"}
+[2016-12-22 15:01:36] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"190b921"}
+[2016-12-22 15:01:36] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"190b921"}
+[2016-12-22 15:01:36] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action \test found [] {"uid":"190b921"}
+[2016-12-22 15:01:36] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"190b921"}
+[2016-12-22 15:01:36] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"190b921"}
+[2016-12-22 15:01:36] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action \test ... [] {"uid":"190b921"}
+[2016-12-22 15:14:55] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"d193a8f"}
+[2016-12-22 15:14:55] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"d193a8f"}
+[2016-12-22 15:14:55] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"d193a8f"}
+[2016-12-22 15:14:55] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"d193a8f"}
+[2016-12-22 15:14:55] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"d193a8f"}
+[2016-12-22 15:14:56] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"d193a8f"}
+[2016-12-22 15:14:56] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"d193a8f"}
+[2016-12-22 15:14:56] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"d193a8f"}
+[2016-12-22 15:14:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"d193a8f"}
+[2016-12-22 15:14:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"d193a8f"}
+[2016-12-22 15:14:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"d193a8f"}
+[2016-12-22 15:14:58] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"d193a8f"}
+[2016-12-22 15:14:58] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"d193a8f"}
+[2016-12-22 15:14:58] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"d193a8f"}
+[2016-12-22 15:14:58] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"d193a8f"}
+[2016-12-22 15:14:59] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"d193a8f"}
+[2016-12-22 15:15:01] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 5.6120238304138 [] {"uid":"d193a8f"}
+[2016-12-22 15:16:17] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"be80d82"}
+[2016-12-22 15:16:17] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"be80d82"}
+[2016-12-22 15:16:17] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"be80d82"}
+[2016-12-22 15:16:17] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"be80d82"}
+[2016-12-22 15:16:17] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"be80d82"}
+[2016-12-22 15:16:17] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"be80d82"}
+[2016-12-22 15:16:17] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"be80d82"}
+[2016-12-22 15:16:17] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"be80d82"}
+[2016-12-22 15:16:17] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"be80d82"}
+[2016-12-22 15:16:17] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"be80d82"}
+[2016-12-22 15:16:17] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"be80d82"}
+[2016-12-22 15:16:17] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"be80d82"}
+[2016-12-22 15:16:17] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"be80d82"}
+[2016-12-22 15:16:17] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"be80d82"}
+[2016-12-22 15:16:19] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 2.5597200393677 [] {"uid":"be80d82"}
+[2016-12-22 15:16:40] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"04ae8d2"}
+[2016-12-22 15:16:40] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"04ae8d2"}
+[2016-12-22 15:16:40] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"04ae8d2"}
+[2016-12-22 15:16:40] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"04ae8d2"}
+[2016-12-22 15:16:40] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"04ae8d2"}
+[2016-12-22 15:16:40] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"04ae8d2"}
+[2016-12-22 15:16:40] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"04ae8d2"}
+[2016-12-22 15:16:40] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"04ae8d2"}
+[2016-12-22 15:16:40] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"04ae8d2"}
+[2016-12-22 15:16:40] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"04ae8d2"}
+[2016-12-22 15:16:40] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"04ae8d2"}
+[2016-12-22 15:16:40] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"04ae8d2"}
+[2016-12-22 15:16:40] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"04ae8d2"}
+[2016-12-22 15:16:40] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"04ae8d2"}
+[2016-12-22 15:16:40] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0029160976409912 [] {"uid":"04ae8d2"}
+[2016-12-22 15:22:35] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"9685d3b"}
+[2016-12-22 15:22:35] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"9685d3b"}
+[2016-12-22 15:22:35] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"9685d3b"}
+[2016-12-22 15:22:35] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"9685d3b"}
+[2016-12-22 15:22:35] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"9685d3b"}
+[2016-12-22 15:22:35] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"9685d3b"}
+[2016-12-22 15:22:35] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"9685d3b"}
+[2016-12-22 15:22:35] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"9685d3b"}
+[2016-12-22 15:22:35] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"9685d3b"}
+[2016-12-22 15:22:35] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"9685d3b"}
+[2016-12-22 15:22:35] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"9685d3b"}
+[2016-12-22 15:22:35] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"9685d3b"}
+[2016-12-22 15:22:35] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"9685d3b"}
+[2016-12-22 15:22:35] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"9685d3b"}
+[2016-12-22 15:22:35] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.2834210395813 [] {"uid":"9685d3b"}
+[2016-12-22 15:23:02] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"01f7415"}
+[2016-12-22 15:23:02] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"01f7415"}
+[2016-12-22 15:23:02] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"01f7415"}
+[2016-12-22 15:23:02] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"01f7415"}
+[2016-12-22 15:23:02] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"01f7415"}
+[2016-12-22 15:23:02] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"01f7415"}
+[2016-12-22 15:23:02] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"01f7415"}
+[2016-12-22 15:23:02] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"01f7415"}
+[2016-12-22 15:23:02] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"01f7415"}
+[2016-12-22 15:23:02] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"01f7415"}
+[2016-12-22 15:23:02] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"01f7415"}
+[2016-12-22 15:23:02] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"01f7415"}
+[2016-12-22 15:23:02] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"01f7415"}
+[2016-12-22 15:23:02] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"01f7415"}
+[2016-12-22 15:23:02] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.011638879776001 [] {"uid":"01f7415"}
+[2016-12-22 15:25:00] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"1fc1495"}
+[2016-12-22 15:25:00] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"1fc1495"}
+[2016-12-22 15:25:00] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"1fc1495"}
+[2016-12-22 15:25:00] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"1fc1495"}
+[2016-12-22 15:25:00] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"1fc1495"}
+[2016-12-22 15:25:00] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"1fc1495"}
+[2016-12-22 15:25:00] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"1fc1495"}
+[2016-12-22 15:25:00] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"1fc1495"}
+[2016-12-22 15:25:00] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"1fc1495"}
+[2016-12-22 15:25:00] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"1fc1495"}
+[2016-12-22 15:25:00] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"1fc1495"}
+[2016-12-22 15:25:00] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"1fc1495"}
+[2016-12-22 15:25:00] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"1fc1495"}
+[2016-12-22 15:25:00] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"1fc1495"}
+[2016-12-22 15:25:00] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.011507987976074 [] {"uid":"1fc1495"}
+[2016-12-22 15:25:01] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"8f514c4"}
+[2016-12-22 15:25:01] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"8f514c4"}
+[2016-12-22 15:25:01] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"8f514c4"}
+[2016-12-22 15:25:01] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"8f514c4"}
+[2016-12-22 15:25:01] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"8f514c4"}
+[2016-12-22 15:25:01] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"8f514c4"}
+[2016-12-22 15:25:01] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"8f514c4"}
+[2016-12-22 15:25:01] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"8f514c4"}
+[2016-12-22 15:25:01] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"8f514c4"}
+[2016-12-22 15:25:01] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"8f514c4"}
+[2016-12-22 15:25:01] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"8f514c4"}
+[2016-12-22 15:25:01] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"8f514c4"}
+[2016-12-22 15:25:01] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"8f514c4"}
+[2016-12-22 15:25:01] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"8f514c4"}
+[2016-12-22 15:25:01] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0027880668640137 [] {"uid":"8f514c4"}
+[2016-12-22 15:25:57] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"811d179"}
+[2016-12-22 15:25:57] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"811d179"}
+[2016-12-22 15:25:57] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"811d179"}
+[2016-12-22 15:25:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"811d179"}
+[2016-12-22 15:25:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"811d179"}
+[2016-12-22 15:25:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"811d179"}
+[2016-12-22 15:25:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"811d179"}
+[2016-12-22 15:25:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"811d179"}
+[2016-12-22 15:25:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"811d179"}
+[2016-12-22 15:25:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"811d179"}
+[2016-12-22 15:25:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"811d179"}
+[2016-12-22 15:25:57] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"811d179"}
+[2016-12-22 15:25:57] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"811d179"}
+[2016-12-22 15:25:57] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"811d179"}
+[2016-12-22 15:25:57] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.012658834457397 [] {"uid":"811d179"}
+[2016-12-22 15:31:58] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"3d466de"}
+[2016-12-22 15:31:58] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"3d466de"}
+[2016-12-22 15:31:58] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"3d466de"}
+[2016-12-22 15:31:58] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"3d466de"}
+[2016-12-22 15:31:58] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"3d466de"}
+[2016-12-22 15:31:58] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"3d466de"}
+[2016-12-22 15:31:58] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"3d466de"}
+[2016-12-22 15:31:58] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"3d466de"}
+[2016-12-22 15:31:58] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"3d466de"}
+[2016-12-22 15:31:58] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"3d466de"}
+[2016-12-22 15:31:58] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"3d466de"}
+[2016-12-22 15:31:58] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"3d466de"}
+[2016-12-22 15:31:58] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"3d466de"}
+[2016-12-22 15:31:58] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"3d466de"}
+[2016-12-22 15:31:58] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0071718692779541 [] {"uid":"3d466de"}
+[2016-12-22 15:32:54] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"72eded7"}
+[2016-12-22 15:32:54] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"72eded7"}
+[2016-12-22 15:32:54] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"72eded7"}
+[2016-12-22 15:32:54] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"72eded7"}
+[2016-12-22 15:32:54] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"72eded7"}
+[2016-12-22 15:32:54] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"72eded7"}
+[2016-12-22 15:32:54] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"72eded7"}
+[2016-12-22 15:32:54] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"72eded7"}
+[2016-12-22 15:32:54] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"72eded7"}
+[2016-12-22 15:32:54] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"72eded7"}
+[2016-12-22 15:32:54] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"72eded7"}
+[2016-12-22 15:32:54] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"72eded7"}
+[2016-12-22 15:32:54] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"72eded7"}
+[2016-12-22 15:32:54] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"72eded7"}
+[2016-12-22 15:32:54] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0054340362548828 [] {"uid":"72eded7"}
+[2016-12-22 15:33:33] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"20ec2de"}
+[2016-12-22 15:33:33] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"20ec2de"}
+[2016-12-22 15:33:33] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"20ec2de"}
+[2016-12-22 15:33:33] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"20ec2de"}
+[2016-12-22 15:33:33] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"20ec2de"}
+[2016-12-22 15:33:33] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"20ec2de"}
+[2016-12-22 15:33:33] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"20ec2de"}
+[2016-12-22 15:33:33] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"20ec2de"}
+[2016-12-22 15:33:33] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"20ec2de"}
+[2016-12-22 15:33:33] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"20ec2de"}
+[2016-12-22 15:33:33] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"20ec2de"}
+[2016-12-22 15:33:33] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"20ec2de"}
+[2016-12-22 15:33:33] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"20ec2de"}
+[2016-12-22 15:33:33] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"20ec2de"}
+[2016-12-22 15:33:33] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.014084100723267 [] {"uid":"20ec2de"}
+[2016-12-22 15:33:57] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"16efa58"}
+[2016-12-22 15:33:57] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"16efa58"}
+[2016-12-22 15:33:57] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"16efa58"}
+[2016-12-22 15:33:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"16efa58"}
+[2016-12-22 15:33:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"16efa58"}
+[2016-12-22 15:33:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"16efa58"}
+[2016-12-22 15:33:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"16efa58"}
+[2016-12-22 15:33:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"16efa58"}
+[2016-12-22 15:33:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"16efa58"}
+[2016-12-22 15:33:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"16efa58"}
+[2016-12-22 15:33:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"16efa58"}
+[2016-12-22 15:33:57] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"16efa58"}
+[2016-12-22 15:33:57] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"16efa58"}
+[2016-12-22 15:33:57] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"16efa58"}
+[2016-12-22 15:33:57] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.011889934539795 [] {"uid":"16efa58"}
+[2016-12-22 15:34:38] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"02a960c"}
+[2016-12-22 15:34:38] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"02a960c"}
+[2016-12-22 15:34:38] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"02a960c"}
+[2016-12-22 15:34:38] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"02a960c"}
+[2016-12-22 15:34:38] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"02a960c"}
+[2016-12-22 15:34:38] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"02a960c"}
+[2016-12-22 15:34:38] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"02a960c"}
+[2016-12-22 15:34:38] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"02a960c"}
+[2016-12-22 15:34:38] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"02a960c"}
+[2016-12-22 15:34:38] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"02a960c"}
+[2016-12-22 15:34:38] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"02a960c"}
+[2016-12-22 15:34:38] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"02a960c"}
+[2016-12-22 15:34:38] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"02a960c"}
+[2016-12-22 15:34:38] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"02a960c"}
+[2016-12-22 15:34:38] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0074238777160645 [] {"uid":"02a960c"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"c386304"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"c386304"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"c386304"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"c386304"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"c386304"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"c386304"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"c386304"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"c386304"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"c386304"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"c386304"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"c386304"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"c386304"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"c386304"}
+[2016-12-22 15:35:01] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"c386304"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0029909610748291 [] {"uid":"c386304"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"fb0fca7"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"fb0fca7"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"fb0fca7"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"fb0fca7"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"fb0fca7"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"fb0fca7"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"fb0fca7"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"fb0fca7"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"fb0fca7"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"fb0fca7"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"fb0fca7"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"fb0fca7"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"fb0fca7"}
+[2016-12-22 15:35:01] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"fb0fca7"}
+[2016-12-22 15:35:01] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0024778842926025 [] {"uid":"fb0fca7"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"38bc727"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"38bc727"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"38bc727"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"38bc727"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"38bc727"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"38bc727"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"38bc727"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"38bc727"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"38bc727"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"38bc727"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"38bc727"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"38bc727"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"38bc727"}
+[2016-12-22 15:35:05] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"38bc727"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0019519329071045 [] {"uid":"38bc727"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/favicon.ico [] {"uid":"d015e93"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"d015e93"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"d015e93"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"d015e93"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"d015e93"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"d015e93"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"d015e93"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"d015e93"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"d015e93"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"d015e93"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"d015e93"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"d015e93"}
+[2016-12-22 15:35:05] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"d015e93"}
+[2016-12-22 15:36:08] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"52816b4"}
+[2016-12-22 15:36:08] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"52816b4"}
+[2016-12-22 15:36:08] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"52816b4"}
+[2016-12-22 15:36:08] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"52816b4"}
+[2016-12-22 15:36:08] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"52816b4"}
+[2016-12-22 15:36:08] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"52816b4"}
+[2016-12-22 15:36:08] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"52816b4"}
+[2016-12-22 15:36:08] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"52816b4"}
+[2016-12-22 15:36:08] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"52816b4"}
+[2016-12-22 15:36:08] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"52816b4"}
+[2016-12-22 15:36:08] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"52816b4"}
+[2016-12-22 15:36:08] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"52816b4"}
+[2016-12-22 15:36:08] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"52816b4"}
+[2016-12-22 15:36:08] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"52816b4"}
+[2016-12-22 15:36:08] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0056278705596924 [] {"uid":"52816b4"}
+[2016-12-22 15:37:28] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"e3cf8aa"}
+[2016-12-22 15:37:28] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"e3cf8aa"}
+[2016-12-22 15:37:28] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"e3cf8aa"}
+[2016-12-22 15:37:28] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"e3cf8aa"}
+[2016-12-22 15:37:28] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"e3cf8aa"}
+[2016-12-22 15:37:28] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"e3cf8aa"}
+[2016-12-22 15:37:28] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"e3cf8aa"}
+[2016-12-22 15:37:28] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"e3cf8aa"}
+[2016-12-22 15:37:28] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"e3cf8aa"}
+[2016-12-22 15:37:28] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"e3cf8aa"}
+[2016-12-22 15:37:28] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"e3cf8aa"}
+[2016-12-22 15:37:28] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"e3cf8aa"}
+[2016-12-22 15:37:28] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"e3cf8aa"}
+[2016-12-22 15:37:28] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"e3cf8aa"}
+[2016-12-22 15:37:28] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0087161064147949 [] {"uid":"e3cf8aa"}
+[2016-12-22 15:37:31] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"2c9a188"}
+[2016-12-22 15:37:31] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"2c9a188"}
+[2016-12-22 15:37:31] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"2c9a188"}
+[2016-12-22 15:37:31] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"2c9a188"}
+[2016-12-22 15:37:31] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"2c9a188"}
+[2016-12-22 15:37:31] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"2c9a188"}
+[2016-12-22 15:37:31] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"2c9a188"}
+[2016-12-22 15:37:31] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"2c9a188"}
+[2016-12-22 15:37:31] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"2c9a188"}
+[2016-12-22 15:37:31] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"2c9a188"}
+[2016-12-22 15:37:31] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"2c9a188"}
+[2016-12-22 15:37:31] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"2c9a188"}
+[2016-12-22 15:37:31] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"2c9a188"}
+[2016-12-22 15:37:31] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"2c9a188"}
+[2016-12-22 15:37:31] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0030601024627686 [] {"uid":"2c9a188"}
+[2016-12-22 15:37:38] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"f34e721"}
+[2016-12-22 15:37:38] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"f34e721"}
+[2016-12-22 15:37:38] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"f34e721"}
+[2016-12-22 15:37:38] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"f34e721"}
+[2016-12-22 15:37:38] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"f34e721"}
+[2016-12-22 15:37:38] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"f34e721"}
+[2016-12-22 15:37:38] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"f34e721"}
+[2016-12-22 15:37:38] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"f34e721"}
+[2016-12-22 15:37:38] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"f34e721"}
+[2016-12-22 15:37:38] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"f34e721"}
+[2016-12-22 15:37:38] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"f34e721"}
+[2016-12-22 15:37:38] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"f34e721"}
+[2016-12-22 15:37:38] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"f34e721"}
+[2016-12-22 15:37:38] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"f34e721"}
+[2016-12-22 15:37:38] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0080270767211914 [] {"uid":"f34e721"}
+[2016-12-22 15:37:39] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"2e6bfea"}
+[2016-12-22 15:37:39] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"2e6bfea"}
+[2016-12-22 15:37:39] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"2e6bfea"}
+[2016-12-22 15:37:39] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"2e6bfea"}
+[2016-12-22 15:37:39] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"2e6bfea"}
+[2016-12-22 15:37:39] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"2e6bfea"}
+[2016-12-22 15:37:39] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"2e6bfea"}
+[2016-12-22 15:37:39] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"2e6bfea"}
+[2016-12-22 15:37:39] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"2e6bfea"}
+[2016-12-22 15:37:39] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"2e6bfea"}
+[2016-12-22 15:37:39] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"2e6bfea"}
+[2016-12-22 15:37:39] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"2e6bfea"}
+[2016-12-22 15:37:39] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"2e6bfea"}
+[2016-12-22 15:37:39] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"2e6bfea"}
+[2016-12-22 15:37:39] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0047588348388672 [] {"uid":"2e6bfea"}
+[2016-12-22 15:47:52] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"dab8388"}
+[2016-12-22 15:47:52] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"dab8388"}
+[2016-12-22 15:47:52] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"dab8388"}
+[2016-12-22 15:47:52] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"dab8388"}
+[2016-12-22 15:47:52] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"dab8388"}
+[2016-12-22 15:47:52] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"dab8388"}
+[2016-12-22 15:47:52] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"dab8388"}
+[2016-12-22 15:47:52] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"dab8388"}
+[2016-12-22 15:47:52] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"dab8388"}
+[2016-12-22 15:47:52] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"dab8388"}
+[2016-12-22 15:47:52] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"dab8388"}
+[2016-12-22 15:47:52] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"dab8388"}
+[2016-12-22 15:47:52] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"dab8388"}
+[2016-12-22 15:47:52] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"dab8388"}
+[2016-12-22 15:47:52] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0034089088439941 [] {"uid":"dab8388"}
+[2016-12-22 15:47:54] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"be5ac43"}
+[2016-12-22 15:47:54] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"be5ac43"}
+[2016-12-22 15:47:54] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"be5ac43"}
+[2016-12-22 15:47:54] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"be5ac43"}
+[2016-12-22 15:47:54] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"be5ac43"}
+[2016-12-22 15:47:54] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"be5ac43"}
+[2016-12-22 15:47:54] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"be5ac43"}
+[2016-12-22 15:47:54] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"be5ac43"}
+[2016-12-22 15:47:54] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"be5ac43"}
+[2016-12-22 15:47:54] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"be5ac43"}
+[2016-12-22 15:47:54] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"be5ac43"}
+[2016-12-22 15:47:54] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"be5ac43"}
+[2016-12-22 15:47:54] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"be5ac43"}
+[2016-12-22 15:47:54] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"be5ac43"}
+[2016-12-22 15:47:54] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0044338703155518 [] {"uid":"be5ac43"}
+[2016-12-22 15:47:57] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"31de97e"}
+[2016-12-22 15:47:57] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"31de97e"}
+[2016-12-22 15:47:57] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"31de97e"}
+[2016-12-22 15:47:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"31de97e"}
+[2016-12-22 15:47:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"31de97e"}
+[2016-12-22 15:47:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"31de97e"}
+[2016-12-22 15:47:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"31de97e"}
+[2016-12-22 15:47:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"31de97e"}
+[2016-12-22 15:47:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"31de97e"}
+[2016-12-22 15:47:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"31de97e"}
+[2016-12-22 15:47:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"31de97e"}
+[2016-12-22 15:47:57] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"31de97e"}
+[2016-12-22 15:47:57] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"31de97e"}
+[2016-12-22 15:47:57] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"31de97e"}
+[2016-12-22 15:47:57] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0026729106903076 [] {"uid":"31de97e"}
+[2016-12-22 15:50:29] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"b49492c"}
+[2016-12-22 15:50:29] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"b49492c"}
+[2016-12-22 15:50:29] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"b49492c"}
+[2016-12-22 15:50:29] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"b49492c"}
+[2016-12-22 15:50:29] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"b49492c"}
+[2016-12-22 15:50:29] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"b49492c"}
+[2016-12-22 15:50:29] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"b49492c"}
+[2016-12-22 15:50:29] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"b49492c"}
+[2016-12-22 15:50:29] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"b49492c"}
+[2016-12-22 15:50:29] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"b49492c"}
+[2016-12-22 15:50:29] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"b49492c"}
+[2016-12-22 15:50:29] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"b49492c"}
+[2016-12-22 15:50:29] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"b49492c"}
+[2016-12-22 15:50:29] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"b49492c"}
+[2016-12-22 15:50:29] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0026109218597412 [] {"uid":"b49492c"}
+[2016-12-22 15:52:42] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"d2c4d37"}
+[2016-12-22 15:52:42] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"d2c4d37"}
+[2016-12-22 15:52:42] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"d2c4d37"}
+[2016-12-22 15:52:42] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"d2c4d37"}
+[2016-12-22 15:52:42] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"d2c4d37"}
+[2016-12-22 15:52:42] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"d2c4d37"}
+[2016-12-22 15:52:42] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"d2c4d37"}
+[2016-12-22 15:52:42] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"d2c4d37"}
+[2016-12-22 15:52:42] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"d2c4d37"}
+[2016-12-22 15:52:42] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"d2c4d37"}
+[2016-12-22 15:52:42] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"d2c4d37"}
+[2016-12-22 15:52:42] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"d2c4d37"}
+[2016-12-22 15:52:42] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"d2c4d37"}
+[2016-12-22 15:52:42] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"d2c4d37"}
+[2016-12-22 15:52:42] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0025119781494141 [] {"uid":"d2c4d37"}
+[2016-12-22 15:52:44] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"afe75ac"}
+[2016-12-22 15:52:44] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"afe75ac"}
+[2016-12-22 15:52:44] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"afe75ac"}
+[2016-12-22 15:52:44] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"afe75ac"}
+[2016-12-22 15:52:44] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"afe75ac"}
+[2016-12-22 15:52:44] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"afe75ac"}
+[2016-12-22 15:52:44] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"afe75ac"}
+[2016-12-22 15:52:44] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"afe75ac"}
+[2016-12-22 15:52:44] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"afe75ac"}
+[2016-12-22 15:52:44] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"afe75ac"}
+[2016-12-22 15:52:44] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"afe75ac"}
+[2016-12-22 15:52:44] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"afe75ac"}
+[2016-12-22 15:52:44] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"afe75ac"}
+[2016-12-22 15:52:44] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"afe75ac"}
+[2016-12-22 15:52:44] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0052061080932617 [] {"uid":"afe75ac"}
+[2016-12-22 15:52:57] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"556dc1e"}
+[2016-12-22 15:52:57] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"556dc1e"}
+[2016-12-22 15:52:57] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"556dc1e"}
+[2016-12-22 15:52:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"556dc1e"}
+[2016-12-22 15:52:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"556dc1e"}
+[2016-12-22 15:52:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"556dc1e"}
+[2016-12-22 15:52:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"556dc1e"}
+[2016-12-22 15:52:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"556dc1e"}
+[2016-12-22 15:52:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"556dc1e"}
+[2016-12-22 15:52:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"556dc1e"}
+[2016-12-22 15:52:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"556dc1e"}
+[2016-12-22 15:52:57] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"556dc1e"}
+[2016-12-22 15:52:57] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"556dc1e"}
+[2016-12-22 15:52:57] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"556dc1e"}
+[2016-12-22 15:52:57] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0030441284179688 [] {"uid":"556dc1e"}
+[2016-12-22 15:52:58] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"3d2b3ab"}
+[2016-12-22 15:52:58] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"3d2b3ab"}
+[2016-12-22 15:52:58] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"3d2b3ab"}
+[2016-12-22 15:52:58] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"3d2b3ab"}
+[2016-12-22 15:52:58] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"3d2b3ab"}
+[2016-12-22 15:52:58] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"3d2b3ab"}
+[2016-12-22 15:52:58] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"3d2b3ab"}
+[2016-12-22 15:52:58] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"3d2b3ab"}
+[2016-12-22 15:52:58] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"3d2b3ab"}
+[2016-12-22 15:52:58] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"3d2b3ab"}
+[2016-12-22 15:52:58] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"3d2b3ab"}
+[2016-12-22 15:52:58] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"3d2b3ab"}
+[2016-12-22 15:52:58] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"3d2b3ab"}
+[2016-12-22 15:52:58] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"3d2b3ab"}
+[2016-12-22 15:52:58] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0022621154785156 [] {"uid":"3d2b3ab"}
+[2016-12-22 15:53:23] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"67332cf"}
+[2016-12-22 15:53:23] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"67332cf"}
+[2016-12-22 15:53:23] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"67332cf"}
+[2016-12-22 15:53:23] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"67332cf"}
+[2016-12-22 15:53:23] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"67332cf"}
+[2016-12-22 15:53:23] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"67332cf"}
+[2016-12-22 15:53:23] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"67332cf"}
+[2016-12-22 15:53:23] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"67332cf"}
+[2016-12-22 15:53:23] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"67332cf"}
+[2016-12-22 15:53:23] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"67332cf"}
+[2016-12-22 15:53:23] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"67332cf"}
+[2016-12-22 15:53:23] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"67332cf"}
+[2016-12-22 15:53:23] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"67332cf"}
+[2016-12-22 15:53:23] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"67332cf"}
+[2016-12-22 15:53:23] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0039730072021484 [] {"uid":"67332cf"}
+[2016-12-22 16:05:09] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"2bcd9d5"}
+[2016-12-22 16:05:09] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"2bcd9d5"}
+[2016-12-22 16:05:09] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"2bcd9d5"}
+[2016-12-22 16:05:09] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"2bcd9d5"}
+[2016-12-22 16:05:09] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"2bcd9d5"}
+[2016-12-22 16:05:09] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"2bcd9d5"}
+[2016-12-22 16:05:09] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"2bcd9d5"}
+[2016-12-22 16:05:09] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"2bcd9d5"}
+[2016-12-22 16:05:09] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"2bcd9d5"}
+[2016-12-22 16:05:09] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"2bcd9d5"}
+[2016-12-22 16:05:09] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"2bcd9d5"}
+[2016-12-22 16:05:09] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"2bcd9d5"}
+[2016-12-22 16:05:09] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"2bcd9d5"}
+[2016-12-22 16:05:09] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"2bcd9d5"}
+[2016-12-22 16:05:09] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0088391304016113 [] {"uid":"2bcd9d5"}
+[2016-12-22 16:07:04] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"416a6e9"}
+[2016-12-22 16:07:04] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"416a6e9"}
+[2016-12-22 16:07:04] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"416a6e9"}
+[2016-12-22 16:07:04] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"416a6e9"}
+[2016-12-22 16:07:04] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"416a6e9"}
+[2016-12-22 16:07:04] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"416a6e9"}
+[2016-12-22 16:07:04] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"416a6e9"}
+[2016-12-22 16:07:04] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"416a6e9"}
+[2016-12-22 16:07:04] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"416a6e9"}
+[2016-12-22 16:07:04] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"416a6e9"}
+[2016-12-22 16:07:04] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"416a6e9"}
+[2016-12-22 16:07:04] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"416a6e9"}
+[2016-12-22 16:07:04] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"416a6e9"}
+[2016-12-22 16:07:04] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"416a6e9"}
+[2016-12-22 16:07:04] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0072410106658936 [] {"uid":"416a6e9"}
+[2016-12-22 16:07:33] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"965dfb9"}
+[2016-12-22 16:07:33] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"965dfb9"}
+[2016-12-22 16:07:33] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"965dfb9"}
+[2016-12-22 16:07:33] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"965dfb9"}
+[2016-12-22 16:07:33] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"965dfb9"}
+[2016-12-22 16:07:33] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"965dfb9"}
+[2016-12-22 16:07:33] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"965dfb9"}
+[2016-12-22 16:07:33] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"965dfb9"}
+[2016-12-22 16:07:33] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"965dfb9"}
+[2016-12-22 16:07:33] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"965dfb9"}
+[2016-12-22 16:07:33] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"965dfb9"}
+[2016-12-22 16:07:33] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"965dfb9"}
+[2016-12-22 16:07:33] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"965dfb9"}
+[2016-12-22 16:07:33] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"965dfb9"}
+[2016-12-22 16:07:33] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0063328742980957 [] {"uid":"965dfb9"}
+[2016-12-22 16:08:57] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"299342a"}
+[2016-12-22 16:08:57] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"299342a"}
+[2016-12-22 16:08:57] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"299342a"}
+[2016-12-22 16:08:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"299342a"}
+[2016-12-22 16:08:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"299342a"}
+[2016-12-22 16:08:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"299342a"}
+[2016-12-22 16:08:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"299342a"}
+[2016-12-22 16:08:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"299342a"}
+[2016-12-22 16:08:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"299342a"}
+[2016-12-22 16:08:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"299342a"}
+[2016-12-22 16:08:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"299342a"}
+[2016-12-22 16:08:57] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"299342a"}
+[2016-12-22 16:08:57] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"299342a"}
+[2016-12-22 16:08:57] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"299342a"}
+[2016-12-22 16:08:57] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0061590671539307 [] {"uid":"299342a"}
+[2016-12-22 16:09:55] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"6ee71ae"}
+[2016-12-22 16:09:55] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"6ee71ae"}
+[2016-12-22 16:09:55] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"6ee71ae"}
+[2016-12-22 16:09:55] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"6ee71ae"}
+[2016-12-22 16:09:55] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"6ee71ae"}
+[2016-12-22 16:09:55] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"6ee71ae"}
+[2016-12-22 16:09:55] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"6ee71ae"}
+[2016-12-22 16:09:55] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"6ee71ae"}
+[2016-12-22 16:09:55] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"6ee71ae"}
+[2016-12-22 16:09:55] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"6ee71ae"}
+[2016-12-22 16:09:55] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"6ee71ae"}
+[2016-12-22 16:09:55] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"6ee71ae"}
+[2016-12-22 16:09:55] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"6ee71ae"}
+[2016-12-22 16:09:55] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"6ee71ae"}
+[2016-12-22 16:09:55] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.029052019119263 [] {"uid":"6ee71ae"}
+[2016-12-22 16:10:31] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"6044ae2"}
+[2016-12-22 16:10:31] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"6044ae2"}
+[2016-12-22 16:10:31] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"6044ae2"}
+[2016-12-22 16:10:31] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"6044ae2"}
+[2016-12-22 16:10:31] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"6044ae2"}
+[2016-12-22 16:10:31] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"6044ae2"}
+[2016-12-22 16:10:31] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"6044ae2"}
+[2016-12-22 16:10:31] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"6044ae2"}
+[2016-12-22 16:10:31] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"6044ae2"}
+[2016-12-22 16:10:31] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"6044ae2"}
+[2016-12-22 16:10:31] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"6044ae2"}
+[2016-12-22 16:10:31] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"6044ae2"}
+[2016-12-22 16:10:31] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"6044ae2"}
+[2016-12-22 16:10:31] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"6044ae2"}
+[2016-12-22 16:10:31] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0065388679504395 [] {"uid":"6044ae2"}
+[2016-12-22 16:11:34] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"e44905c"}
+[2016-12-22 16:11:34] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"e44905c"}
+[2016-12-22 16:11:34] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"e44905c"}
+[2016-12-22 16:11:34] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"e44905c"}
+[2016-12-22 16:11:34] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"e44905c"}
+[2016-12-22 16:11:34] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"e44905c"}
+[2016-12-22 16:11:34] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"e44905c"}
+[2016-12-22 16:11:34] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"e44905c"}
+[2016-12-22 16:11:34] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"e44905c"}
+[2016-12-22 16:11:34] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"e44905c"}
+[2016-12-22 16:11:34] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"e44905c"}
+[2016-12-22 16:11:34] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"e44905c"}
+[2016-12-22 16:11:34] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"e44905c"}
+[2016-12-22 16:11:34] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"e44905c"}
+[2016-12-22 16:11:34] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0084388256072998 [] {"uid":"e44905c"}
+[2016-12-22 16:11:52] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"ba6f7ba"}
+[2016-12-22 16:11:52] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"ba6f7ba"}
+[2016-12-22 16:11:52] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"ba6f7ba"}
+[2016-12-22 16:11:52] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"ba6f7ba"}
+[2016-12-22 16:11:52] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"ba6f7ba"}
+[2016-12-22 16:11:52] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"ba6f7ba"}
+[2016-12-22 16:11:52] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"ba6f7ba"}
+[2016-12-22 16:11:52] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"ba6f7ba"}
+[2016-12-22 16:11:52] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"ba6f7ba"}
+[2016-12-22 16:11:52] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"ba6f7ba"}
+[2016-12-22 16:11:52] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"ba6f7ba"}
+[2016-12-22 16:11:52] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"ba6f7ba"}
+[2016-12-22 16:11:52] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"ba6f7ba"}
+[2016-12-22 16:11:52] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"ba6f7ba"}
+[2016-12-22 16:11:52] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0050609111785889 [] {"uid":"ba6f7ba"}
+[2016-12-22 16:12:53] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"baf03a5"}
+[2016-12-22 16:12:53] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"baf03a5"}
+[2016-12-22 16:12:53] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"baf03a5"}
+[2016-12-22 16:12:53] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"baf03a5"}
+[2016-12-22 16:12:53] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"baf03a5"}
+[2016-12-22 16:12:53] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"baf03a5"}
+[2016-12-22 16:12:53] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"baf03a5"}
+[2016-12-22 16:12:53] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"baf03a5"}
+[2016-12-22 16:12:53] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"baf03a5"}
+[2016-12-22 16:12:53] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"baf03a5"}
+[2016-12-22 16:12:53] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"baf03a5"}
+[2016-12-22 16:12:53] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"baf03a5"}
+[2016-12-22 16:12:53] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"baf03a5"}
+[2016-12-22 16:12:53] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"baf03a5"}
+[2016-12-22 16:12:53] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0057239532470703 [] {"uid":"baf03a5"}
+[2016-12-22 16:13:58] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"9cbdd34"}
+[2016-12-22 16:13:58] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"9cbdd34"}
+[2016-12-22 16:13:58] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"9cbdd34"}
+[2016-12-22 16:13:58] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"9cbdd34"}
+[2016-12-22 16:13:58] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"9cbdd34"}
+[2016-12-22 16:13:58] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"9cbdd34"}
+[2016-12-22 16:13:58] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"9cbdd34"}
+[2016-12-22 16:13:58] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"9cbdd34"}
+[2016-12-22 16:13:58] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"9cbdd34"}
+[2016-12-22 16:13:58] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"9cbdd34"}
+[2016-12-22 16:13:58] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"9cbdd34"}
+[2016-12-22 16:13:58] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"9cbdd34"}
+[2016-12-22 16:13:58] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"9cbdd34"}
+[2016-12-22 16:13:58] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"9cbdd34"}
+[2016-12-22 16:13:58] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.010679960250854 [] {"uid":"9cbdd34"}
+[2016-12-22 16:17:15] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"5101432"}
+[2016-12-22 16:17:15] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"5101432"}
+[2016-12-22 16:17:15] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"5101432"}
+[2016-12-22 16:17:15] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"5101432"}
+[2016-12-22 16:17:15] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"5101432"}
+[2016-12-22 16:17:15] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"5101432"}
+[2016-12-22 16:17:15] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"5101432"}
+[2016-12-22 16:17:15] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"5101432"}
+[2016-12-22 16:17:15] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"5101432"}
+[2016-12-22 16:17:15] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"5101432"}
+[2016-12-22 16:17:15] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"5101432"}
+[2016-12-22 16:17:15] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"5101432"}
+[2016-12-22 16:17:15] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"5101432"}
+[2016-12-22 16:17:15] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"5101432"}
+[2016-12-22 16:17:15] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0037939548492432 [] {"uid":"5101432"}
+[2016-12-22 16:17:43] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"3ea231b"}
+[2016-12-22 16:17:43] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"3ea231b"}
+[2016-12-22 16:17:43] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"3ea231b"}
+[2016-12-22 16:17:43] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"3ea231b"}
+[2016-12-22 16:17:43] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"3ea231b"}
+[2016-12-22 16:17:43] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"3ea231b"}
+[2016-12-22 16:17:43] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"3ea231b"}
+[2016-12-22 16:17:43] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"3ea231b"}
+[2016-12-22 16:17:43] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"3ea231b"}
+[2016-12-22 16:17:43] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"3ea231b"}
+[2016-12-22 16:17:43] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"3ea231b"}
+[2016-12-22 16:17:43] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"3ea231b"}
+[2016-12-22 16:17:43] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"3ea231b"}
+[2016-12-22 16:17:43] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"3ea231b"}
+[2016-12-22 16:17:43] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0086319446563721 [] {"uid":"3ea231b"}
+[2016-12-22 16:17:45] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"237d829"}
+[2016-12-22 16:17:45] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"237d829"}
+[2016-12-22 16:17:45] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"237d829"}
+[2016-12-22 16:17:45] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"237d829"}
+[2016-12-22 16:17:45] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"237d829"}
+[2016-12-22 16:17:45] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"237d829"}
+[2016-12-22 16:17:45] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"237d829"}
+[2016-12-22 16:17:45] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"237d829"}
+[2016-12-22 16:17:45] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"237d829"}
+[2016-12-22 16:17:45] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"237d829"}
+[2016-12-22 16:17:45] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"237d829"}
+[2016-12-22 16:17:45] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"237d829"}
+[2016-12-22 16:17:45] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"237d829"}
+[2016-12-22 16:17:45] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"237d829"}
+[2016-12-22 16:17:45] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0036690235137939 [] {"uid":"237d829"}
+[2016-12-22 16:17:57] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"6ceb7db"}
+[2016-12-22 16:17:57] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"6ceb7db"}
+[2016-12-22 16:17:57] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"6ceb7db"}
+[2016-12-22 16:17:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"6ceb7db"}
+[2016-12-22 16:17:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"6ceb7db"}
+[2016-12-22 16:17:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"6ceb7db"}
+[2016-12-22 16:17:57] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"6ceb7db"}
+[2016-12-22 16:17:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"6ceb7db"}
+[2016-12-22 16:17:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"6ceb7db"}
+[2016-12-22 16:17:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"6ceb7db"}
+[2016-12-22 16:17:57] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"6ceb7db"}
+[2016-12-22 16:17:57] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"6ceb7db"}
+[2016-12-22 16:17:57] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"6ceb7db"}
+[2016-12-22 16:17:57] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"6ceb7db"}
+[2016-12-22 16:17:57] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0036270618438721 [] {"uid":"6ceb7db"}
+[2016-12-22 16:18:06] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"585e1de"}
+[2016-12-22 16:18:06] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"585e1de"}
+[2016-12-22 16:18:06] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"585e1de"}
+[2016-12-22 16:18:06] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"585e1de"}
+[2016-12-22 16:18:06] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"585e1de"}
+[2016-12-22 16:18:06] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"585e1de"}
+[2016-12-22 16:18:06] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"585e1de"}
+[2016-12-22 16:18:06] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"585e1de"}
+[2016-12-22 16:18:06] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"585e1de"}
+[2016-12-22 16:18:06] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"585e1de"}
+[2016-12-22 16:18:06] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"585e1de"}
+[2016-12-22 16:18:06] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"585e1de"}
+[2016-12-22 16:18:06] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"585e1de"}
+[2016-12-22 16:18:06] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"585e1de"}
+[2016-12-22 16:18:06] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0047690868377686 [] {"uid":"585e1de"}
+[2016-12-22 16:18:15] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"7f14f68"}
+[2016-12-22 16:18:15] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"7f14f68"}
+[2016-12-22 16:18:15] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"7f14f68"}
+[2016-12-22 16:18:15] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"7f14f68"}
+[2016-12-22 16:18:15] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"7f14f68"}
+[2016-12-22 16:18:15] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"7f14f68"}
+[2016-12-22 16:18:15] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"7f14f68"}
+[2016-12-22 16:18:15] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"7f14f68"}
+[2016-12-22 16:18:15] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"7f14f68"}
+[2016-12-22 16:18:15] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"7f14f68"}
+[2016-12-22 16:18:15] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"7f14f68"}
+[2016-12-22 16:18:15] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"7f14f68"}
+[2016-12-22 16:18:15] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"7f14f68"}
+[2016-12-22 16:18:15] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"7f14f68"}
+[2016-12-22 16:18:15] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0063600540161133 [] {"uid":"7f14f68"}
+[2016-12-22 16:18:59] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"5dfb22e"}
+[2016-12-22 16:18:59] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"5dfb22e"}
+[2016-12-22 16:18:59] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"5dfb22e"}
+[2016-12-22 16:18:59] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"5dfb22e"}
+[2016-12-22 16:18:59] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"5dfb22e"}
+[2016-12-22 16:18:59] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"5dfb22e"}
+[2016-12-22 16:18:59] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"5dfb22e"}
+[2016-12-22 16:18:59] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"5dfb22e"}
+[2016-12-22 16:18:59] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"5dfb22e"}
+[2016-12-22 16:18:59] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"5dfb22e"}
+[2016-12-22 16:18:59] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"5dfb22e"}
+[2016-12-22 16:18:59] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"5dfb22e"}
+[2016-12-22 16:18:59] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"5dfb22e"}
+[2016-12-22 16:18:59] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"5dfb22e"}
+[2016-12-22 16:18:59] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0090789794921875 [] {"uid":"5dfb22e"}
+[2016-12-22 16:23:23] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"4ecd79f"}
+[2016-12-22 16:23:23] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"4ecd79f"}
+[2016-12-22 16:23:23] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"4ecd79f"}
+[2016-12-22 16:23:23] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"4ecd79f"}
+[2016-12-22 16:23:23] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"4ecd79f"}
+[2016-12-22 16:23:23] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"4ecd79f"}
+[2016-12-22 16:23:23] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"4ecd79f"}
+[2016-12-22 16:23:23] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"4ecd79f"}
+[2016-12-22 16:23:23] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"4ecd79f"}
+[2016-12-22 16:23:23] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"4ecd79f"}
+[2016-12-22 16:23:23] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"4ecd79f"}
+[2016-12-22 16:23:23] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"4ecd79f"}
+[2016-12-22 16:23:23] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"4ecd79f"}
+[2016-12-22 16:23:23] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"4ecd79f"}
+[2016-12-22 16:23:23] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0040938854217529 [] {"uid":"4ecd79f"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"750ca7f"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"750ca7f"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"750ca7f"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"750ca7f"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"750ca7f"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"750ca7f"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"750ca7f"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"750ca7f"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"750ca7f"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"750ca7f"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"750ca7f"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"750ca7f"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"750ca7f"}
+[2016-12-22 17:30:14] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"750ca7f"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.011067867279053 [] {"uid":"750ca7f"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/favicon.ico [] {"uid":"5b5c9ed"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"5b5c9ed"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"5b5c9ed"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"5b5c9ed"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"5b5c9ed"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"5b5c9ed"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"5b5c9ed"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"5b5c9ed"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"5b5c9ed"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"5b5c9ed"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"5b5c9ed"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"5b5c9ed"}
+[2016-12-22 17:30:14] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"5b5c9ed"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"275283c"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"275283c"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"275283c"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"275283c"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"275283c"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"275283c"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"275283c"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"275283c"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"275283c"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"275283c"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"275283c"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"275283c"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"275283c"}
+[2016-12-22 17:30:37] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"275283c"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.010699987411499 [] {"uid":"275283c"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/favicon.ico [] {"uid":"710091e"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"710091e"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"710091e"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"710091e"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"710091e"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"710091e"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"710091e"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"710091e"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"710091e"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"710091e"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"710091e"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"710091e"}
+[2016-12-22 17:30:37] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"710091e"}
+[2016-12-22 17:31:12] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"2d2b8a0"}
+[2016-12-22 17:31:12] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"2d2b8a0"}
+[2016-12-22 17:31:12] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"2d2b8a0"}
+[2016-12-22 17:31:12] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"2d2b8a0"}
+[2016-12-22 17:31:12] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"2d2b8a0"}
+[2016-12-22 17:31:12] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"2d2b8a0"}
+[2016-12-22 17:31:12] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"2d2b8a0"}
+[2016-12-22 17:31:12] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"2d2b8a0"}
+[2016-12-22 17:31:12] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"2d2b8a0"}
+[2016-12-22 17:31:12] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"2d2b8a0"}
+[2016-12-22 17:31:12] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"2d2b8a0"}
+[2016-12-22 17:31:12] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"2d2b8a0"}
+[2016-12-22 17:31:12] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"2d2b8a0"}
+[2016-12-22 17:31:12] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"2d2b8a0"}
+[2016-12-22 17:31:12] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0063378810882568 [] {"uid":"2d2b8a0"}
+[2016-12-22 17:31:13] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"f8e1011"}
+[2016-12-22 17:31:13] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"f8e1011"}
+[2016-12-22 17:31:13] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"f8e1011"}
+[2016-12-22 17:31:13] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"f8e1011"}
+[2016-12-22 17:31:13] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"f8e1011"}
+[2016-12-22 17:31:13] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"f8e1011"}
+[2016-12-22 17:31:13] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"f8e1011"}
+[2016-12-22 17:31:13] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"f8e1011"}
+[2016-12-22 17:31:13] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"f8e1011"}
+[2016-12-22 17:31:13] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"f8e1011"}
+[2016-12-22 17:31:13] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"f8e1011"}
+[2016-12-22 17:31:13] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"f8e1011"}
+[2016-12-22 17:31:13] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"f8e1011"}
+[2016-12-22 17:31:13] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"f8e1011"}
+[2016-12-22 17:31:13] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0026950836181641 [] {"uid":"f8e1011"}
+[2016-12-22 17:34:14] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"d4c9a55"}
+[2016-12-22 17:34:14] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"d4c9a55"}
+[2016-12-22 17:34:14] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"d4c9a55"}
+[2016-12-22 17:34:14] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"d4c9a55"}
+[2016-12-22 17:34:14] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"d4c9a55"}
+[2016-12-22 17:34:14] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"d4c9a55"}
+[2016-12-22 17:34:14] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"d4c9a55"}
+[2016-12-22 17:34:14] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"d4c9a55"}
+[2016-12-22 17:34:14] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"d4c9a55"}
+[2016-12-22 17:34:14] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"d4c9a55"}
+[2016-12-22 17:34:14] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"d4c9a55"}
+[2016-12-22 17:34:14] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"d4c9a55"}
+[2016-12-22 17:34:14] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"d4c9a55"}
+[2016-12-22 17:34:14] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"d4c9a55"}
+[2016-12-22 17:34:14] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0028781890869141 [] {"uid":"d4c9a55"}
+[2016-12-22 17:34:15] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"a7d3c40"}
+[2016-12-22 17:34:15] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"a7d3c40"}
+[2016-12-22 17:34:15] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"a7d3c40"}
+[2016-12-22 17:34:15] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"a7d3c40"}
+[2016-12-22 17:34:15] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"a7d3c40"}
+[2016-12-22 17:34:15] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"a7d3c40"}
+[2016-12-22 17:34:15] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"a7d3c40"}
+[2016-12-22 17:34:15] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"a7d3c40"}
+[2016-12-22 17:34:15] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"a7d3c40"}
+[2016-12-22 17:34:15] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"a7d3c40"}
+[2016-12-22 17:34:15] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"a7d3c40"}
+[2016-12-22 17:34:15] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"a7d3c40"}
+[2016-12-22 17:34:15] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"a7d3c40"}
+[2016-12-22 17:34:15] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"a7d3c40"}
+[2016-12-22 17:34:15] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0015978813171387 [] {"uid":"a7d3c40"}
+[2016-12-22 17:39:14] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"5ca7ee5"}
+[2016-12-22 17:39:14] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"5ca7ee5"}
+[2016-12-22 17:39:14] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"5ca7ee5"}
+[2016-12-22 17:39:14] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"5ca7ee5"}
+[2016-12-22 17:39:14] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"5ca7ee5"}
+[2016-12-22 17:39:14] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"5ca7ee5"}
+[2016-12-22 17:39:14] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"5ca7ee5"}
+[2016-12-22 17:39:14] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"5ca7ee5"}
+[2016-12-22 17:39:14] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"5ca7ee5"}
+[2016-12-22 17:39:14] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"5ca7ee5"}
+[2016-12-22 17:39:14] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"5ca7ee5"}
+[2016-12-22 17:39:14] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"5ca7ee5"}
+[2016-12-22 17:39:14] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"5ca7ee5"}
+[2016-12-22 17:39:14] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"5ca7ee5"}
+[2016-12-22 17:39:14] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0060880184173584 [] {"uid":"5ca7ee5"}
+[2016-12-22 17:46:02] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"f638f38"}
+[2016-12-22 17:46:02] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"f638f38"}
+[2016-12-22 17:46:02] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"f638f38"}
+[2016-12-22 17:46:02] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"f638f38"}
+[2016-12-22 17:46:02] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"f638f38"}
+[2016-12-22 17:46:02] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"f638f38"}
+[2016-12-22 17:46:02] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"f638f38"}
+[2016-12-22 17:46:02] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"f638f38"}
+[2016-12-22 17:46:02] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"f638f38"}
+[2016-12-22 17:46:02] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"f638f38"}
+[2016-12-22 17:46:02] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"f638f38"}
+[2016-12-22 17:46:02] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"f638f38"}
+[2016-12-22 17:46:02] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"f638f38"}
+[2016-12-22 17:46:02] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"f638f38"}
+[2016-12-22 17:46:02] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"f638f38"}
+[2016-12-22 17:46:02] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"f638f38"}
+[2016-12-22 17:46:02] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0066177845001221 [] {"uid":"f638f38"}
+[2016-12-22 17:46:33] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"e069e1a"}
+[2016-12-22 17:46:33] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"e069e1a"}
+[2016-12-22 17:46:33] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"e069e1a"}
+[2016-12-22 17:46:33] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"e069e1a"}
+[2016-12-22 17:46:33] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"e069e1a"}
+[2016-12-22 17:46:33] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"e069e1a"}
+[2016-12-22 17:46:33] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"e069e1a"}
+[2016-12-22 17:46:33] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"e069e1a"}
+[2016-12-22 17:46:33] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"e069e1a"}
+[2016-12-22 17:46:33] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"e069e1a"}
+[2016-12-22 17:46:33] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"e069e1a"}
+[2016-12-22 17:46:33] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"e069e1a"}
+[2016-12-22 17:46:33] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"e069e1a"}
+[2016-12-22 17:46:33] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"e069e1a"}
+[2016-12-22 17:46:33] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"e069e1a"}
+[2016-12-22 17:46:33] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"e069e1a"}
+[2016-12-22 17:46:33] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0023908615112305 [] {"uid":"e069e1a"}
+[2016-12-22 17:46:47] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/login [] {"uid":"2214131"}
+[2016-12-22 17:46:47] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"2214131"}
+[2016-12-22 17:46:47] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"2214131"}
+[2016-12-22 17:46:47] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"2214131"}
+[2016-12-22 17:46:47] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"2214131"}
+[2016-12-22 17:46:47] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"2214131"}
+[2016-12-22 17:46:47] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"2214131"}
+[2016-12-22 17:46:47] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"2214131"}
+[2016-12-22 17:46:47] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"2214131"}
+[2016-12-22 17:46:47] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"2214131"}
+[2016-12-22 17:46:47] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"2214131"}
+[2016-12-22 17:46:47] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"2214131"}
+[2016-12-22 17:46:47] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"2214131"}
+[2016-12-22 17:46:47] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"2214131"}
+[2016-12-22 17:46:47] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"2214131"}
+[2016-12-22 17:46:47] APP.INFO: App\Action\LoginAction - Running ... [] {"uid":"2214131"}
+[2016-12-22 17:47:32] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/login [] {"uid":"c1c991e"}
+[2016-12-22 17:47:32] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"c1c991e"}
+[2016-12-22 17:47:32] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"c1c991e"}
+[2016-12-22 17:47:32] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"c1c991e"}
+[2016-12-22 17:47:32] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"c1c991e"}
+[2016-12-22 17:47:32] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"c1c991e"}
+[2016-12-22 17:47:32] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"c1c991e"}
+[2016-12-22 17:47:32] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"c1c991e"}
+[2016-12-22 17:47:32] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"c1c991e"}
+[2016-12-22 17:47:32] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"c1c991e"}
+[2016-12-22 17:47:32] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"c1c991e"}
+[2016-12-22 17:47:32] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"c1c991e"}
+[2016-12-22 17:47:32] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"c1c991e"}
+[2016-12-22 17:47:32] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"c1c991e"}
+[2016-12-22 17:47:32] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"c1c991e"}
+[2016-12-22 17:47:32] APP.INFO: App\Action\LoginAction - Running ... [] {"uid":"c1c991e"}
+[2016-12-22 17:48:18] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"418a6fb"}
+[2016-12-22 17:48:18] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"418a6fb"}
+[2016-12-22 17:48:18] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"418a6fb"}
+[2016-12-22 17:48:18] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"418a6fb"}
+[2016-12-22 17:48:18] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"418a6fb"}
+[2016-12-22 17:48:18] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"418a6fb"}
+[2016-12-22 17:48:18] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"418a6fb"}
+[2016-12-22 17:48:18] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"418a6fb"}
+[2016-12-22 17:48:18] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"418a6fb"}
+[2016-12-22 17:48:18] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"418a6fb"}
+[2016-12-22 17:48:18] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"418a6fb"}
+[2016-12-22 17:48:18] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"418a6fb"}
+[2016-12-22 17:48:18] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"418a6fb"}
+[2016-12-22 17:48:18] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"418a6fb"}
+[2016-12-22 17:48:18] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"418a6fb"}
+[2016-12-22 17:48:18] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"418a6fb"}
+[2016-12-22 17:48:18] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.0027320384979248 [] {"uid":"418a6fb"}
+[2016-12-22 17:48:21] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/login [] {"uid":"322c7cf"}
+[2016-12-22 17:48:21] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"322c7cf"}
+[2016-12-22 17:48:21] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"322c7cf"}
+[2016-12-22 17:48:21] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"322c7cf"}
+[2016-12-22 17:48:21] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"322c7cf"}
+[2016-12-22 17:48:21] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"322c7cf"}
+[2016-12-22 17:48:21] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"322c7cf"}
+[2016-12-22 17:48:21] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"322c7cf"}
+[2016-12-22 17:48:21] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"322c7cf"}
+[2016-12-22 17:48:21] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"322c7cf"}
+[2016-12-22 17:48:21] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"322c7cf"}
+[2016-12-22 17:48:21] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"322c7cf"}
+[2016-12-22 17:48:21] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"322c7cf"}
+[2016-12-22 17:48:21] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"322c7cf"}
+[2016-12-22 17:48:21] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"322c7cf"}
+[2016-12-22 17:48:21] APP.INFO: App\Action\LoginAction - Running ... [] {"uid":"322c7cf"}
+[2016-12-22 17:48:21] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/login in 0.0039989948272705 [] {"uid":"322c7cf"}
+[2016-12-22 17:48:25] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/login [] {"uid":"b2b3377"}
+[2016-12-22 17:48:25] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"b2b3377"}
+[2016-12-22 17:48:25] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"b2b3377"}
+[2016-12-22 17:48:25] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"b2b3377"}
+[2016-12-22 17:48:25] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"b2b3377"}
+[2016-12-22 17:48:25] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"b2b3377"}
+[2016-12-22 17:48:25] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"b2b3377"}
+[2016-12-22 17:48:25] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"b2b3377"}
+[2016-12-22 17:48:25] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"b2b3377"}
+[2016-12-22 17:48:25] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"b2b3377"}
+[2016-12-22 17:48:25] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"b2b3377"}
+[2016-12-22 17:48:25] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"b2b3377"}
+[2016-12-22 17:48:25] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"b2b3377"}
+[2016-12-22 17:48:25] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"b2b3377"}
+[2016-12-22 17:48:25] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"b2b3377"}
+[2016-12-22 17:48:25] APP.INFO: App\Action\LoginAction - Running ... [] {"uid":"b2b3377"}
+[2016-12-22 17:48:25] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/login in 0.0062479972839355 [] {"uid":"b2b3377"}
+[2016-12-22 17:55:31] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/login [] {"uid":"5229a38"}
+[2016-12-22 17:55:31] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"5229a38"}
+[2016-12-22 17:55:31] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"5229a38"}
+[2016-12-22 17:55:31] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"5229a38"}
+[2016-12-22 17:55:31] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"5229a38"}
+[2016-12-22 17:55:31] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"5229a38"}
+[2016-12-22 17:55:31] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"5229a38"}
+[2016-12-22 17:55:31] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"5229a38"}
+[2016-12-22 17:55:31] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"5229a38"}
+[2016-12-22 17:55:31] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"5229a38"}
+[2016-12-22 17:55:31] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"5229a38"}
+[2016-12-22 17:55:31] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"5229a38"}
+[2016-12-22 17:55:31] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"5229a38"}
+[2016-12-22 17:55:31] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"5229a38"}
+[2016-12-22 17:55:31] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"5229a38"}
+[2016-12-22 17:56:21] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/login [] {"uid":"f33bc96"}
+[2016-12-22 17:56:21] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"f33bc96"}
+[2016-12-22 17:56:21] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"f33bc96"}
+[2016-12-22 17:56:21] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"f33bc96"}
+[2016-12-22 17:56:21] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"f33bc96"}
+[2016-12-22 17:56:21] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"f33bc96"}
+[2016-12-22 17:56:21] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"f33bc96"}
+[2016-12-22 17:56:21] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"f33bc96"}
+[2016-12-22 17:56:21] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"f33bc96"}
+[2016-12-22 17:56:21] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"f33bc96"}
+[2016-12-22 17:56:21] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"f33bc96"}
+[2016-12-22 17:56:21] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"f33bc96"}
+[2016-12-22 17:56:21] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"f33bc96"}
+[2016-12-22 17:56:21] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"f33bc96"}
+[2016-12-22 17:56:21] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"f33bc96"}
+[2016-12-22 17:57:10] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/login [] {"uid":"a85ff2a"}
+[2016-12-22 17:57:10] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"a85ff2a"}
+[2016-12-22 17:57:10] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"a85ff2a"}
+[2016-12-22 17:57:10] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"a85ff2a"}
+[2016-12-22 17:57:10] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"a85ff2a"}
+[2016-12-22 17:57:10] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"a85ff2a"}
+[2016-12-22 17:57:10] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"a85ff2a"}
+[2016-12-22 17:57:10] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"a85ff2a"}
+[2016-12-22 17:57:10] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"a85ff2a"}
+[2016-12-22 17:57:10] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"a85ff2a"}
+[2016-12-22 17:57:10] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"a85ff2a"}
+[2016-12-22 17:57:10] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"a85ff2a"}
+[2016-12-22 17:57:10] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"a85ff2a"}
+[2016-12-22 17:57:10] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"a85ff2a"}
+[2016-12-22 17:57:10] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"a85ff2a"}
+[2016-12-22 17:57:39] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/login [] {"uid":"40adbf7"}
+[2016-12-22 17:57:39] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"40adbf7"}
+[2016-12-22 17:57:39] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"40adbf7"}
+[2016-12-22 17:57:39] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"40adbf7"}
+[2016-12-22 17:57:39] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"40adbf7"}
+[2016-12-22 17:57:39] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"40adbf7"}
+[2016-12-22 17:57:39] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"40adbf7"}
+[2016-12-22 17:57:39] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"40adbf7"}
+[2016-12-22 17:57:39] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"40adbf7"}
+[2016-12-22 17:57:39] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"40adbf7"}
+[2016-12-22 17:57:39] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"40adbf7"}
+[2016-12-22 17:57:39] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"40adbf7"}
+[2016-12-22 17:57:39] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"40adbf7"}
+[2016-12-22 17:57:39] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"40adbf7"}
+[2016-12-22 17:57:39] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"40adbf7"}
+[2016-12-22 17:58:05] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/login [] {"uid":"6a96d54"}
+[2016-12-22 17:58:05] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"6a96d54"}
+[2016-12-22 17:58:05] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"6a96d54"}
+[2016-12-22 17:58:05] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"6a96d54"}
+[2016-12-22 17:58:05] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"6a96d54"}
+[2016-12-22 17:58:05] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"6a96d54"}
+[2016-12-22 17:58:05] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"6a96d54"}
+[2016-12-22 17:58:05] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"6a96d54"}
+[2016-12-22 17:58:05] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"6a96d54"}
+[2016-12-22 17:58:05] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"6a96d54"}
+[2016-12-22 17:58:05] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"6a96d54"}
+[2016-12-22 17:58:05] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"6a96d54"}
+[2016-12-22 17:58:05] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"6a96d54"}
+[2016-12-22 17:58:05] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"6a96d54"}
+[2016-12-22 17:58:05] APP.DEBUG: App\Middleware\AddViewDataMiddleware -  ->  [] {"uid":"6a96d54"}
+[2016-12-22 17:58:05] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"6a96d54"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"0230dcd"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"0230dcd"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"0230dcd"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"0230dcd"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"0230dcd"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"0230dcd"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"0230dcd"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"0230dcd"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"0230dcd"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"0230dcd"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"0230dcd"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"0230dcd"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"0230dcd"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"0230dcd"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\AddViewDataMiddleware -  ->  [] {"uid":"0230dcd"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"0230dcd"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"d70d1e2"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"d70d1e2"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"d70d1e2"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"d70d1e2"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"d70d1e2"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"d70d1e2"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"d70d1e2"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"d70d1e2"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"d70d1e2"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"d70d1e2"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"d70d1e2"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"d70d1e2"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"d70d1e2"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"d70d1e2"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\AddViewDataMiddleware -  ->  [] {"uid":"d70d1e2"}
+[2016-12-22 17:58:16] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"d70d1e2"}
+[2016-12-22 17:58:29] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"c932c12"}
+[2016-12-22 17:58:29] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"c932c12"}
+[2016-12-22 17:58:29] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"c932c12"}
+[2016-12-22 17:58:29] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"c932c12"}
+[2016-12-22 17:58:29] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"c932c12"}
+[2016-12-22 17:58:29] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"c932c12"}
+[2016-12-22 17:58:29] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"c932c12"}
+[2016-12-22 17:58:29] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"c932c12"}
+[2016-12-22 17:58:29] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"c932c12"}
+[2016-12-22 17:58:29] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"c932c12"}
+[2016-12-22 17:58:29] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"c932c12"}
+[2016-12-22 17:58:29] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"c932c12"}
+[2016-12-22 17:58:29] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"c932c12"}
+[2016-12-22 17:58:29] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"c932c12"}
+[2016-12-22 17:58:29] APP.DEBUG: App\Middleware\AddViewDataMiddleware -  ->  [] {"uid":"c932c12"}
+[2016-12-22 17:58:29] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"c932c12"}
+[2016-12-22 17:59:02] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"0eadbb2"}
+[2016-12-22 17:59:02] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"0eadbb2"}
+[2016-12-22 17:59:02] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"0eadbb2"}
+[2016-12-22 17:59:02] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"0eadbb2"}
+[2016-12-22 17:59:02] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"0eadbb2"}
+[2016-12-22 17:59:02] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"0eadbb2"}
+[2016-12-22 17:59:02] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"0eadbb2"}
+[2016-12-22 17:59:02] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"0eadbb2"}
+[2016-12-22 17:59:02] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"0eadbb2"}
+[2016-12-22 17:59:02] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"0eadbb2"}
+[2016-12-22 17:59:02] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"0eadbb2"}
+[2016-12-22 17:59:02] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"0eadbb2"}
+[2016-12-22 17:59:02] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"0eadbb2"}
+[2016-12-22 17:59:02] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"0eadbb2"}
+[2016-12-22 17:59:02] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"0eadbb2"}
+[2016-12-22 17:59:02] APP.INFO: App\Action\HomeAction - Running ... [] {"uid":"0eadbb2"}
+[2016-12-22 17:59:02] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Stopping GET http://mandala-app.com/ in 0.006493091583252 [] {"uid":"0eadbb2"}
+[2016-12-22 17:59:38] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"2792743"}
+[2016-12-22 17:59:38] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"2792743"}
+[2016-12-22 17:59:38] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"2792743"}
+[2016-12-22 17:59:38] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"2792743"}
+[2016-12-22 17:59:38] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"2792743"}
+[2016-12-22 17:59:38] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"2792743"}
+[2016-12-22 17:59:38] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"2792743"}
+[2016-12-22 17:59:38] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"2792743"}
+[2016-12-22 17:59:38] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"2792743"}
+[2016-12-22 17:59:38] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"2792743"}
+[2016-12-22 17:59:38] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"2792743"}
+[2016-12-22 17:59:38] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"2792743"}
+[2016-12-22 17:59:38] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"2792743"}
+[2016-12-22 17:59:38] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"2792743"}
+[2016-12-22 17:59:38] APP.DEBUG: App\Middleware\AddViewDataMiddleware -  ->  [] {"uid":"2792743"}
+[2016-12-22 17:59:38] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Add view data ROOT =  [] {"uid":"2792743"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"1af74b3"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"1af74b3"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"1af74b3"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"1af74b3"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"1af74b3"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"1af74b3"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"1af74b3"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"1af74b3"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"1af74b3"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"1af74b3"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"1af74b3"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"1af74b3"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"1af74b3"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"1af74b3"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/favicon.ico [] {"uid":"39fe690"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"39fe690"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"39fe690"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"39fe690"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"39fe690"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"39fe690"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"39fe690"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"39fe690"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"39fe690"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"39fe690"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"39fe690"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"39fe690"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"39fe690"}
+[2016-12-22 18:00:22] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"39fe690"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/ [] {"uid":"532c4f2"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"532c4f2"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"532c4f2"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"532c4f2"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"532c4f2"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"532c4f2"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"532c4f2"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"532c4f2"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"532c4f2"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"532c4f2"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"532c4f2"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"532c4f2"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"532c4f2"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"532c4f2"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\BenchmarkMiddleware - Running for GET http://mandala-app.com/favicon.ico [] {"uid":"fc4bd45"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\CleanerMiddleware - Running ... [] {"uid":"fc4bd45"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\CleanerMiddleware - Cleaning all ... [] {"uid":"fc4bd45"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\AddActionsMiddleware - Running ... [] {"uid":"fc4bd45"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\AddActionsMiddleware - Processing Actions ... [] {"uid":"fc4bd45"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\HomeAction found [] {"uid":"fc4bd45"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\AddActionsMiddleware - Action App\Action\LoginAction found [] {"uid":"fc4bd45"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\HomeAction ... [] {"uid":"fc4bd45"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\AddActionsMiddleware - Register action App\Action\LoginAction ... [] {"uid":"fc4bd45"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\TranslationMiddleware - Running ... [] {"uid":"fc4bd45"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\TranslationMiddleware - Identify default user language : pt ... [] {"uid":"fc4bd45"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\TranslationMiddleware - Saving file references in session ... [] {"uid":"fc4bd45"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\TranslationMiddleware - Register Language pt ... [] {"uid":"fc4bd45"}
+[2016-12-22 18:22:56] APP.DEBUG: App\Middleware\AddViewDataMiddleware - Running ... [] {"uid":"fc4bd45"}

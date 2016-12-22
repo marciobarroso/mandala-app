@@ -1,0 +1,44 @@
+img.error {
+	width: 400px;
+	height: auto;
+}
+
+.form-inline > .form-group {
+    vertical-align: top;
+}
+
+.squad-logo {
+	width: 200px;
+	height: 200px;
+}
+
+ul.messages {
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+ul.messages li {
+	list-style: none;
+	width: 100%;
+}
+
+.error {
+	color: red;
+}
+
+.success {
+	color: green;
+}
+
+.info {
+	color: yellow;
+}
+
+.warning {
+	color: orange;
+}
+
+div#modal-report-detail .modal-dialog {
+	width: 80%;	
+}
