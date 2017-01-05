@@ -8,15 +8,14 @@ use Psr\Http\Message\ResponseInterface as Response;
 final class AddActionsMiddleware extends \QuickShot\Common\Middleware\AbstractMiddleware {
 
 	public function __invoke(Request $request, Response $response, callable $next) {
-		$this->debug("Running ...");
-
+		
 		$container = $this->getContainer();
 		$actions = isset($_SESSION[IN_SESSION_ACTION_CLASSES]) ? $_SESSION[IN_SESSION_ACTION_CLASSES] : [];
 
 		if( sizeof($actions) == 0 ) {
 			$this->debug("Processing Actions ...");
 
-			foreach ( glob ( ROOT . '/app/action/*.php' ) as $file ) {
+			foreach ( glob ( APP_ROOT . '/app/action/*.php' ) as $file ) {
 				$action = $this->_get_full_qualified_class_name($file);
 				$this->debug("Action $action found");
 				$actions[] = $action;

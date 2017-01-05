@@ -1,0 +1,4 @@
+storage/*
+vendor/*
+composer.lock
+app/translations/delete-if-the-properties-files-was-changed

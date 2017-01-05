@@ -11,9 +11,15 @@ final class LoginAction extends \QuickShot\Common\Action\AbstractAction {
 		
         try {
             
+            /*
+
             // load facebook api from ioc container
             $facebook = $this->getContainer()->get('facebook-api');
+            echo "facebook ";
+            print_r($facebook);
             $helper = $facebook->getRedirectLoginHelper();
+            echo "helper ";
+            print_r($helper);
             $accessToken = $helper->getAccessToken();
             echo $accessToken;
 

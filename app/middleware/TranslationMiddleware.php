@@ -15,7 +15,6 @@ class TranslationMiddleware extends \QuickShot\Common\Middleware\AbstractMiddlew
 		$this->debug("Identify default user language : $locale ...");
 
 		$translator = new \Symfony\Component\Translation\Translator($locale, new \Symfony\Component\Translation\MessageSelector());
-		$translator->setFallbackLocales(['pt','en']);
 		$translator->addLoader('php', new \Symfony\Component\Translation\Loader\PhpFileLoader());
 
 		if( !is_file( TRANSLATION_FILE_CHECK ) ) {
@@ -70,8 +69,10 @@ class TranslationMiddleware extends \QuickShot\Common\Middleware\AbstractMiddlew
 		}
 
 		$container = $this->getContainer();
+		$container["locale"] = $locale;
 		$container["languages"] = $langs;
 		$view = $container->get('view');
+		$translator->setFallbackLocales($langs);
 		$view->addExtension(new \Symfony\Bridge\Twig\Extension\TranslationExtension($translator));
 
 		return $next($request, $response);

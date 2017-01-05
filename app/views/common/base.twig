@@ -1,13 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{locale}}">
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="description" content="">
-		<meta name="author" content="">
+		<meta name="description" content="{{ "app_description" | trans }}">
+		<meta name="keywords" content="{{ "app_keywords" | trans }}">
+		<meta name="robots" content="{{ "app_robots" | trans }}">
+		<meta name="author" content="{{ "app_author" | trans }}">
 		<title>{{ "app_name" | trans }}</title>
-
 {% use "common/stylesheets.twig" %} {% block stylesheets %} {{ parent() }} {% endblock stylesheets %}
 	</head>
 	<body>

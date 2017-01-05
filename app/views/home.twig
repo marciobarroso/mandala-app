@@ -1,8 +1,4 @@
 {% extends "common/base.twig" %}
-
-{% block container %} 
-{# empty the container #}
-
-		hello world
-
-{% endblock container %}
+{% block content %}
+{{ "messages_welcome" | trans }}
+{% endblock content %}

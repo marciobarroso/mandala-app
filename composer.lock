@@ -36,16 +36,16 @@
         },
         {
             "name": "facebook/graph-sdk",
-            "version": "5.4.2",
+            "version": "5.4.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/facebook/php-graph-sdk.git",
-                "reference": "2839246e971aef150650196acbb46d47e5207370"
+                "reference": "3e0f78787556375bb6ed52beaabfedbc16b5a4e8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/facebook/php-graph-sdk/zipball/2839246e971aef150650196acbb46d47e5207370",
-                "reference": "2839246e971aef150650196acbb46d47e5207370",
+                "url": "https://api.github.com/repos/facebook/php-graph-sdk/zipball/3e0f78787556375bb6ed52beaabfedbc16b5a4e8",
+                "reference": "3e0f78787556375bb6ed52beaabfedbc16b5a4e8",
                 "shasum": ""
             },
             "require": {
@@ -90,7 +90,7 @@
                 "facebook",
                 "sdk"
             ],
-            "time": "2016-11-15 14:34:16"
+            "time": "2016-12-30 17:54:16"
         },
         {
             "name": "monolog/monolog",
@@ -172,16 +172,16 @@
         },
         {
             "name": "nikic/fast-route",
-            "version": "v1.0.1",
+            "version": "v1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/FastRoute.git",
-                "reference": "8ea928195fa9b907f0d6e48312d323c1a13cc2af"
+                "reference": "f3dcf5130e634b6123d40727d612ec6aa4f61fb3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/FastRoute/zipball/8ea928195fa9b907f0d6e48312d323c1a13cc2af",
-                "reference": "8ea928195fa9b907f0d6e48312d323c1a13cc2af",
+                "url": "https://api.github.com/repos/nikic/FastRoute/zipball/f3dcf5130e634b6123d40727d612ec6aa4f61fb3",
+                "reference": "f3dcf5130e634b6123d40727d612ec6aa4f61fb3",
                 "shasum": ""
             },
             "require": {
@@ -211,20 +211,20 @@
                 "router",
                 "routing"
             ],
-            "time": "2016-06-12 19:08:51"
+            "time": "2016-10-20 17:36:47"
         },
         {
             "name": "phpmailer/phpmailer",
-            "version": "v5.2.17",
+            "version": "v5.2.21",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPMailer/PHPMailer.git",
-                "reference": "208913c6042967ba404f4bfa0819bf5bef79dbec"
+                "reference": "1d51856b76c06fc687fcd9180efa7a0bed0d761e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPMailer/PHPMailer/zipball/208913c6042967ba404f4bfa0819bf5bef79dbec",
-                "reference": "208913c6042967ba404f4bfa0819bf5bef79dbec",
+                "url": "https://api.github.com/repos/PHPMailer/PHPMailer/zipball/1d51856b76c06fc687fcd9180efa7a0bed0d761e",
+                "reference": "1d51856b76c06fc687fcd9180efa7a0bed0d761e",
                 "shasum": ""
             },
             "require": {
@@ -271,7 +271,7 @@
                 }
             ],
             "description": "PHPMailer is a full-featured email creation and transfer class for PHP",
-            "time": "2016-12-09 10:03:48"
+            "time": "2016-12-28 15:35:48"
         },
         {
             "name": "pimple/pimple",
@@ -771,16 +771,16 @@
         },
         {
             "name": "twig/twig",
-            "version": "v1.29.0",
+            "version": "v1.30.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "74f723e542368ca2080b252740be5f1113ebb898"
+                "reference": "c6ff71094fde15d12398eaba029434b013dc5e59"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/74f723e542368ca2080b252740be5f1113ebb898",
-                "reference": "74f723e542368ca2080b252740be5f1113ebb898",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/c6ff71094fde15d12398eaba029434b013dc5e59",
+                "reference": "c6ff71094fde15d12398eaba029434b013dc5e59",
                 "shasum": ""
             },
             "require": {
@@ -793,7 +793,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.29-dev"
+                    "dev-master": "1.30-dev"
                 }
             },
             "autoload": {
@@ -828,7 +828,7 @@
             "keywords": [
                 "templating"
             ],
-            "time": "2016-12-13 17:28:18"
+            "time": "2016-12-23 11:06:22"
         }
     ],
     "packages-dev": [],

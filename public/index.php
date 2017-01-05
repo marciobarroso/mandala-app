@@ -6,25 +6,27 @@ if (PHP_SAPI === 'cli-server' && $_SERVER['SCRIPT_FILENAME'] !== __FILE__) {
     return false;
 }
 
-define('ROOT', __DIR__);
+define('WEB_ROOT', __DIR__);
 
-require ROOT . '/vendor/autoload.php';
+define('APP_ROOT', dirname(WEB_ROOT));
+
+require APP_ROOT . '/vendor/autoload.php';
 
 session_start();
 
-$app = new \Slim\App(require ROOT . '/app/settings.php');
+$app = new \Slim\App(require APP_ROOT . '/app/settings.php');
 
 // Set up container
-require ROOT . '/app/container.php';
+require APP_ROOT . '/app/container.php';
 
 // Register middleware
-require ROOT . '/app/middleware-before-request.php';
+require APP_ROOT . '/app/middleware-before-request.php';
 
 // Register routes
-require ROOT . '/app/routes.php';
+require APP_ROOT . '/app/routes.php';
 
 // Register middleware
-require ROOT . '/app/middleware-after-request.php';
+require APP_ROOT . '/app/middleware-after-request.php';
 
 // Run!
 $app->run();
